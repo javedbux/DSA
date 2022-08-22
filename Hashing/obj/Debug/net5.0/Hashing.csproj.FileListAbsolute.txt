@@ -1,0 +1,16 @@
+/home/javedbux/DSA/Hashing/bin/Debug/net5.0/Hashing
+/home/javedbux/DSA/Hashing/bin/Debug/net5.0/Hashing.deps.json
+/home/javedbux/DSA/Hashing/bin/Debug/net5.0/Hashing.runtimeconfig.json
+/home/javedbux/DSA/Hashing/bin/Debug/net5.0/Hashing.runtimeconfig.dev.json
+/home/javedbux/DSA/Hashing/bin/Debug/net5.0/Hashing.dll
+/home/javedbux/DSA/Hashing/bin/Debug/net5.0/ref/Hashing.dll
+/home/javedbux/DSA/Hashing/bin/Debug/net5.0/Hashing.pdb
+/home/javedbux/DSA/Hashing/obj/Debug/net5.0/Hashing.csproj.AssemblyReference.cache
+/home/javedbux/DSA/Hashing/obj/Debug/net5.0/Hashing.GeneratedMSBuildEditorConfig.editorconfig
+/home/javedbux/DSA/Hashing/obj/Debug/net5.0/Hashing.AssemblyInfoInputs.cache
+/home/javedbux/DSA/Hashing/obj/Debug/net5.0/Hashing.AssemblyInfo.cs
+/home/javedbux/DSA/Hashing/obj/Debug/net5.0/Hashing.csproj.CoreCompileInputs.cache
+/home/javedbux/DSA/Hashing/obj/Debug/net5.0/Hashing.dll
+/home/javedbux/DSA/Hashing/obj/Debug/net5.0/ref/Hashing.dll
+/home/javedbux/DSA/Hashing/obj/Debug/net5.0/Hashing.pdb
+/home/javedbux/DSA/Hashing/obj/Debug/net5.0/Hashing.genruntimeconfig.cache

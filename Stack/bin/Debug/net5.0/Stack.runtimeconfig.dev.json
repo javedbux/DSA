@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/javedbux/.dotnet/store/|arch|/|tfm|",
+      "/home/javedbux/.nuget/packages"
+    ]
+  }
+}
