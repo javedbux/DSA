@@ -14,3 +14,10 @@
 /home/javedbux/DSA/LinkedList/obj/Debug/net5.0/ref/LinkedList.dll
 /home/javedbux/DSA/LinkedList/obj/Debug/net5.0/LinkedList.pdb
 /home/javedbux/DSA/LinkedList/obj/Debug/net5.0/LinkedList.genruntimeconfig.cache
+/home/javedbux/DSA/DSA/LinkedList/obj/Debug/net5.0/LinkedList.csproj.AssemblyReference.cache
+/home/javedbux/DSA/DSA/LinkedList/obj/Debug/net5.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/home/javedbux/DSA/DSA/LinkedList/obj/Debug/net5.0/LinkedList.AssemblyInfoInputs.cache
+/home/javedbux/DSA/DSA/LinkedList/obj/Debug/net5.0/LinkedList.AssemblyInfo.cs
+/home/javedbux/DSA/DSA/LinkedList/obj/Debug/net5.0/LinkedList.csproj.CoreCompileInputs.cache
+/home/javedbux/DSA/DSA/LinkedList/obj/Debug/net5.0/LinkedList.dll
+/home/javedbux/DSA/DSA/LinkedList/obj/Debug/net5.0/LinkedList.pdb

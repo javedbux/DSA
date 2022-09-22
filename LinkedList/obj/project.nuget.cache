@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ToJFw7uIGRXyyfAzOBW5s98+SRS5bDRz/6uaMhv8yJUyiwt2WMWrso10ZvtxDNyfUOWH9yZHGJM9yfq5FuaClg==",
+  "dgSpecHash": "0lKw0A5QW/0lNWwcqyCquSnZ/5GJAxpAqX9LGTqWbjJppbN8rgKkIQQEDHnQVqWMsUV0o+EUrWaBjmODAkxKYw==",
   "success": true,
-  "projectFilePath": "/home/javedbux/DSA/LinkedList/LinkedList.csproj",
+  "projectFilePath": "/home/javedbux/DSA/DSA/LinkedList/LinkedList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

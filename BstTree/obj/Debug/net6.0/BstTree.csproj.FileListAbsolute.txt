@@ -1,0 +1,15 @@
+/home/javedbux/DSA/DSA/BstTree/bin/Debug/net6.0/BstTree
+/home/javedbux/DSA/DSA/BstTree/bin/Debug/net6.0/BstTree.deps.json
+/home/javedbux/DSA/DSA/BstTree/bin/Debug/net6.0/BstTree.runtimeconfig.json
+/home/javedbux/DSA/DSA/BstTree/bin/Debug/net6.0/BstTree.dll
+/home/javedbux/DSA/DSA/BstTree/bin/Debug/net6.0/BstTree.pdb
+/home/javedbux/DSA/DSA/BstTree/obj/Debug/net6.0/BstTree.csproj.AssemblyReference.cache
+/home/javedbux/DSA/DSA/BstTree/obj/Debug/net6.0/BstTree.GeneratedMSBuildEditorConfig.editorconfig
+/home/javedbux/DSA/DSA/BstTree/obj/Debug/net6.0/BstTree.AssemblyInfoInputs.cache
+/home/javedbux/DSA/DSA/BstTree/obj/Debug/net6.0/BstTree.AssemblyInfo.cs
+/home/javedbux/DSA/DSA/BstTree/obj/Debug/net6.0/BstTree.csproj.CoreCompileInputs.cache
+/home/javedbux/DSA/DSA/BstTree/obj/Debug/net6.0/BstTree.dll
+/home/javedbux/DSA/DSA/BstTree/obj/Debug/net6.0/refint/BstTree.dll
+/home/javedbux/DSA/DSA/BstTree/obj/Debug/net6.0/BstTree.pdb
+/home/javedbux/DSA/DSA/BstTree/obj/Debug/net6.0/BstTree.genruntimeconfig.cache
+/home/javedbux/DSA/DSA/BstTree/obj/Debug/net6.0/ref/BstTree.dll

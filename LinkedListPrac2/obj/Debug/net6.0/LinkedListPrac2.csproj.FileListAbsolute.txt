@@ -1,0 +1,15 @@
+/home/javedbux/DSA/DSA/LinkedListPrac2/bin/Debug/net6.0/LinkedListPrac2
+/home/javedbux/DSA/DSA/LinkedListPrac2/bin/Debug/net6.0/LinkedListPrac2.deps.json
+/home/javedbux/DSA/DSA/LinkedListPrac2/bin/Debug/net6.0/LinkedListPrac2.runtimeconfig.json
+/home/javedbux/DSA/DSA/LinkedListPrac2/bin/Debug/net6.0/LinkedListPrac2.dll
+/home/javedbux/DSA/DSA/LinkedListPrac2/bin/Debug/net6.0/LinkedListPrac2.pdb
+/home/javedbux/DSA/DSA/LinkedListPrac2/obj/Debug/net6.0/LinkedListPrac2.csproj.AssemblyReference.cache
+/home/javedbux/DSA/DSA/LinkedListPrac2/obj/Debug/net6.0/LinkedListPrac2.GeneratedMSBuildEditorConfig.editorconfig
+/home/javedbux/DSA/DSA/LinkedListPrac2/obj/Debug/net6.0/LinkedListPrac2.AssemblyInfoInputs.cache
+/home/javedbux/DSA/DSA/LinkedListPrac2/obj/Debug/net6.0/LinkedListPrac2.AssemblyInfo.cs
+/home/javedbux/DSA/DSA/LinkedListPrac2/obj/Debug/net6.0/LinkedListPrac2.csproj.CoreCompileInputs.cache
+/home/javedbux/DSA/DSA/LinkedListPrac2/obj/Debug/net6.0/LinkedListPrac2.dll
+/home/javedbux/DSA/DSA/LinkedListPrac2/obj/Debug/net6.0/refint/LinkedListPrac2.dll
+/home/javedbux/DSA/DSA/LinkedListPrac2/obj/Debug/net6.0/LinkedListPrac2.pdb
+/home/javedbux/DSA/DSA/LinkedListPrac2/obj/Debug/net6.0/LinkedListPrac2.genruntimeconfig.cache
+/home/javedbux/DSA/DSA/LinkedListPrac2/obj/Debug/net6.0/ref/LinkedListPrac2.dll

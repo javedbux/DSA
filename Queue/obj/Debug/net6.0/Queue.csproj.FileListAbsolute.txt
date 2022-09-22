@@ -1,0 +1,15 @@
+/home/javedbux/DSA/DSA/Queue/bin/Debug/net6.0/Queue
+/home/javedbux/DSA/DSA/Queue/bin/Debug/net6.0/Queue.deps.json
+/home/javedbux/DSA/DSA/Queue/bin/Debug/net6.0/Queue.runtimeconfig.json
+/home/javedbux/DSA/DSA/Queue/bin/Debug/net6.0/Queue.dll
+/home/javedbux/DSA/DSA/Queue/bin/Debug/net6.0/Queue.pdb
+/home/javedbux/DSA/DSA/Queue/obj/Debug/net6.0/Queue.csproj.AssemblyReference.cache
+/home/javedbux/DSA/DSA/Queue/obj/Debug/net6.0/Queue.GeneratedMSBuildEditorConfig.editorconfig
+/home/javedbux/DSA/DSA/Queue/obj/Debug/net6.0/Queue.AssemblyInfoInputs.cache
+/home/javedbux/DSA/DSA/Queue/obj/Debug/net6.0/Queue.AssemblyInfo.cs
+/home/javedbux/DSA/DSA/Queue/obj/Debug/net6.0/Queue.csproj.CoreCompileInputs.cache
+/home/javedbux/DSA/DSA/Queue/obj/Debug/net6.0/Queue.dll
+/home/javedbux/DSA/DSA/Queue/obj/Debug/net6.0/refint/Queue.dll
+/home/javedbux/DSA/DSA/Queue/obj/Debug/net6.0/Queue.pdb
+/home/javedbux/DSA/DSA/Queue/obj/Debug/net6.0/Queue.genruntimeconfig.cache
+/home/javedbux/DSA/DSA/Queue/obj/Debug/net6.0/ref/Queue.dll

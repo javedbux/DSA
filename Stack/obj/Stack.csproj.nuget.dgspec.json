@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/javedbux/DSA/Stack/Stack.csproj": {}
+    "/home/javedbux/DSA/DSA/Stack/Stack.csproj": {}
   },
   "projects": {
-    "/home/javedbux/DSA/Stack/Stack.csproj": {
+    "/home/javedbux/DSA/DSA/Stack/Stack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/javedbux/DSA/Stack/Stack.csproj",
+        "projectUniqueName": "/home/javedbux/DSA/DSA/Stack/Stack.csproj",
         "projectName": "Stack",
-        "projectPath": "/home/javedbux/DSA/Stack/Stack.csproj",
+        "projectPath": "/home/javedbux/DSA/DSA/Stack/Stack.csproj",
         "packagesPath": "/home/javedbux/.nuget/packages/",
-        "outputPath": "/home/javedbux/DSA/Stack/obj/",
+        "outputPath": "/home/javedbux/DSA/DSA/Stack/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/javedbux/.nuget/NuGet/NuGet.Config"

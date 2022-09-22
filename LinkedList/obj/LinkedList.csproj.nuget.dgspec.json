@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/javedbux/DSA/LinkedList/LinkedList.csproj": {}
+    "/home/javedbux/DSA/DSA/LinkedList/LinkedList.csproj": {}
   },
   "projects": {
-    "/home/javedbux/DSA/LinkedList/LinkedList.csproj": {
+    "/home/javedbux/DSA/DSA/LinkedList/LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/javedbux/DSA/LinkedList/LinkedList.csproj",
+        "projectUniqueName": "/home/javedbux/DSA/DSA/LinkedList/LinkedList.csproj",
         "projectName": "LinkedList",
-        "projectPath": "/home/javedbux/DSA/LinkedList/LinkedList.csproj",
+        "projectPath": "/home/javedbux/DSA/DSA/LinkedList/LinkedList.csproj",
         "packagesPath": "/home/javedbux/.nuget/packages/",
-        "outputPath": "/home/javedbux/DSA/LinkedList/obj/",
+        "outputPath": "/home/javedbux/DSA/DSA/LinkedList/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/javedbux/.nuget/NuGet/NuGet.Config"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
