@@ -1,0 +1,15 @@
+/home/javedbux/DSA/DSA/Prac/bin/Debug/net6.0/Prac
+/home/javedbux/DSA/DSA/Prac/bin/Debug/net6.0/Prac.deps.json
+/home/javedbux/DSA/DSA/Prac/bin/Debug/net6.0/Prac.runtimeconfig.json
+/home/javedbux/DSA/DSA/Prac/bin/Debug/net6.0/Prac.dll
+/home/javedbux/DSA/DSA/Prac/bin/Debug/net6.0/ref/Prac.dll
+/home/javedbux/DSA/DSA/Prac/bin/Debug/net6.0/Prac.pdb
+/home/javedbux/DSA/DSA/Prac/obj/Debug/net6.0/Prac.csproj.AssemblyReference.cache
+/home/javedbux/DSA/DSA/Prac/obj/Debug/net6.0/Prac.GeneratedMSBuildEditorConfig.editorconfig
+/home/javedbux/DSA/DSA/Prac/obj/Debug/net6.0/Prac.AssemblyInfoInputs.cache
+/home/javedbux/DSA/DSA/Prac/obj/Debug/net6.0/Prac.AssemblyInfo.cs
+/home/javedbux/DSA/DSA/Prac/obj/Debug/net6.0/Prac.csproj.CoreCompileInputs.cache
+/home/javedbux/DSA/DSA/Prac/obj/Debug/net6.0/Prac.dll
+/home/javedbux/DSA/DSA/Prac/obj/Debug/net6.0/ref/Prac.dll
+/home/javedbux/DSA/DSA/Prac/obj/Debug/net6.0/Prac.pdb
+/home/javedbux/DSA/DSA/Prac/obj/Debug/net6.0/Prac.genruntimeconfig.cache

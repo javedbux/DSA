@@ -1,0 +1,15 @@
+/home/javedbux/DSA/DSA/Pattern/bin/Debug/net6.0/Pattern
+/home/javedbux/DSA/DSA/Pattern/bin/Debug/net6.0/Pattern.deps.json
+/home/javedbux/DSA/DSA/Pattern/bin/Debug/net6.0/Pattern.runtimeconfig.json
+/home/javedbux/DSA/DSA/Pattern/bin/Debug/net6.0/Pattern.dll
+/home/javedbux/DSA/DSA/Pattern/bin/Debug/net6.0/ref/Pattern.dll
+/home/javedbux/DSA/DSA/Pattern/bin/Debug/net6.0/Pattern.pdb
+/home/javedbux/DSA/DSA/Pattern/obj/Debug/net6.0/Pattern.csproj.AssemblyReference.cache
+/home/javedbux/DSA/DSA/Pattern/obj/Debug/net6.0/Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/javedbux/DSA/DSA/Pattern/obj/Debug/net6.0/Pattern.AssemblyInfoInputs.cache
+/home/javedbux/DSA/DSA/Pattern/obj/Debug/net6.0/Pattern.AssemblyInfo.cs
+/home/javedbux/DSA/DSA/Pattern/obj/Debug/net6.0/Pattern.csproj.CoreCompileInputs.cache
+/home/javedbux/DSA/DSA/Pattern/obj/Debug/net6.0/Pattern.dll
+/home/javedbux/DSA/DSA/Pattern/obj/Debug/net6.0/ref/Pattern.dll
+/home/javedbux/DSA/DSA/Pattern/obj/Debug/net6.0/Pattern.pdb
+/home/javedbux/DSA/DSA/Pattern/obj/Debug/net6.0/Pattern.genruntimeconfig.cache

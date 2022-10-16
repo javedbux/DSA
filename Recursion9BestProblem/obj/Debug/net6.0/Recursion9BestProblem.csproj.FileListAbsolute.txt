@@ -1,0 +1,15 @@
+/home/javedbux/DSA/DSA/Recursion9BestProblem/bin/Debug/net6.0/Recursion9BestProblem
+/home/javedbux/DSA/DSA/Recursion9BestProblem/bin/Debug/net6.0/Recursion9BestProblem.deps.json
+/home/javedbux/DSA/DSA/Recursion9BestProblem/bin/Debug/net6.0/Recursion9BestProblem.runtimeconfig.json
+/home/javedbux/DSA/DSA/Recursion9BestProblem/bin/Debug/net6.0/Recursion9BestProblem.dll
+/home/javedbux/DSA/DSA/Recursion9BestProblem/bin/Debug/net6.0/Recursion9BestProblem.pdb
+/home/javedbux/DSA/DSA/Recursion9BestProblem/obj/Debug/net6.0/Recursion9BestProblem.csproj.AssemblyReference.cache
+/home/javedbux/DSA/DSA/Recursion9BestProblem/obj/Debug/net6.0/Recursion9BestProblem.GeneratedMSBuildEditorConfig.editorconfig
+/home/javedbux/DSA/DSA/Recursion9BestProblem/obj/Debug/net6.0/Recursion9BestProblem.AssemblyInfoInputs.cache
+/home/javedbux/DSA/DSA/Recursion9BestProblem/obj/Debug/net6.0/Recursion9BestProblem.AssemblyInfo.cs
+/home/javedbux/DSA/DSA/Recursion9BestProblem/obj/Debug/net6.0/Recursion9BestProblem.csproj.CoreCompileInputs.cache
+/home/javedbux/DSA/DSA/Recursion9BestProblem/obj/Debug/net6.0/Recursion9BestProblem.dll
+/home/javedbux/DSA/DSA/Recursion9BestProblem/obj/Debug/net6.0/Recursion9BestProblem.pdb
+/home/javedbux/DSA/DSA/Recursion9BestProblem/obj/Debug/net6.0/Recursion9BestProblem.genruntimeconfig.cache
+/home/javedbux/DSA/DSA/Recursion9BestProblem/obj/Debug/net6.0/ref/Recursion9BestProblem.dll
+/home/javedbux/DSA/DSA/Recursion9BestProblem/bin/Debug/net6.0/ref/Recursion9BestProblem.dll

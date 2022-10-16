@@ -1,0 +1,15 @@
+/home/javedbux/DSA/DSA/ArrayMy/bin/Debug/net6.0/ArrayMy
+/home/javedbux/DSA/DSA/ArrayMy/bin/Debug/net6.0/ArrayMy.deps.json
+/home/javedbux/DSA/DSA/ArrayMy/bin/Debug/net6.0/ArrayMy.runtimeconfig.json
+/home/javedbux/DSA/DSA/ArrayMy/bin/Debug/net6.0/ArrayMy.dll
+/home/javedbux/DSA/DSA/ArrayMy/bin/Debug/net6.0/ref/ArrayMy.dll
+/home/javedbux/DSA/DSA/ArrayMy/bin/Debug/net6.0/ArrayMy.pdb
+/home/javedbux/DSA/DSA/ArrayMy/obj/Debug/net6.0/ArrayMy.csproj.AssemblyReference.cache
+/home/javedbux/DSA/DSA/ArrayMy/obj/Debug/net6.0/ArrayMy.GeneratedMSBuildEditorConfig.editorconfig
+/home/javedbux/DSA/DSA/ArrayMy/obj/Debug/net6.0/ArrayMy.AssemblyInfoInputs.cache
+/home/javedbux/DSA/DSA/ArrayMy/obj/Debug/net6.0/ArrayMy.AssemblyInfo.cs
+/home/javedbux/DSA/DSA/ArrayMy/obj/Debug/net6.0/ArrayMy.csproj.CoreCompileInputs.cache
+/home/javedbux/DSA/DSA/ArrayMy/obj/Debug/net6.0/ArrayMy.dll
+/home/javedbux/DSA/DSA/ArrayMy/obj/Debug/net6.0/ref/ArrayMy.dll
+/home/javedbux/DSA/DSA/ArrayMy/obj/Debug/net6.0/ArrayMy.pdb
+/home/javedbux/DSA/DSA/ArrayMy/obj/Debug/net6.0/ArrayMy.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/javedbux/DSA/DSA/RecursionOneShot/bin/Debug/net6.0/RecursionOneShot
+/home/javedbux/DSA/DSA/RecursionOneShot/bin/Debug/net6.0/RecursionOneShot.deps.json
+/home/javedbux/DSA/DSA/RecursionOneShot/bin/Debug/net6.0/RecursionOneShot.runtimeconfig.json
+/home/javedbux/DSA/DSA/RecursionOneShot/bin/Debug/net6.0/RecursionOneShot.dll
+/home/javedbux/DSA/DSA/RecursionOneShot/bin/Debug/net6.0/ref/RecursionOneShot.dll
+/home/javedbux/DSA/DSA/RecursionOneShot/bin/Debug/net6.0/RecursionOneShot.pdb
+/home/javedbux/DSA/DSA/RecursionOneShot/obj/Debug/net6.0/RecursionOneShot.csproj.AssemblyReference.cache
+/home/javedbux/DSA/DSA/RecursionOneShot/obj/Debug/net6.0/RecursionOneShot.GeneratedMSBuildEditorConfig.editorconfig
+/home/javedbux/DSA/DSA/RecursionOneShot/obj/Debug/net6.0/RecursionOneShot.AssemblyInfoInputs.cache
+/home/javedbux/DSA/DSA/RecursionOneShot/obj/Debug/net6.0/RecursionOneShot.AssemblyInfo.cs
+/home/javedbux/DSA/DSA/RecursionOneShot/obj/Debug/net6.0/RecursionOneShot.csproj.CoreCompileInputs.cache
+/home/javedbux/DSA/DSA/RecursionOneShot/obj/Debug/net6.0/RecursionOneShot.dll
+/home/javedbux/DSA/DSA/RecursionOneShot/obj/Debug/net6.0/ref/RecursionOneShot.dll
+/home/javedbux/DSA/DSA/RecursionOneShot/obj/Debug/net6.0/RecursionOneShot.pdb
+/home/javedbux/DSA/DSA/RecursionOneShot/obj/Debug/net6.0/RecursionOneShot.genruntimeconfig.cache
