@@ -1,0 +1,15 @@
+/home/javedbux/DSA/DSA/ArrayBab/bin/Debug/net6.0/ArrayBab
+/home/javedbux/DSA/DSA/ArrayBab/bin/Debug/net6.0/ArrayBab.deps.json
+/home/javedbux/DSA/DSA/ArrayBab/bin/Debug/net6.0/ArrayBab.runtimeconfig.json
+/home/javedbux/DSA/DSA/ArrayBab/bin/Debug/net6.0/ArrayBab.dll
+/home/javedbux/DSA/DSA/ArrayBab/bin/Debug/net6.0/ref/ArrayBab.dll
+/home/javedbux/DSA/DSA/ArrayBab/bin/Debug/net6.0/ArrayBab.pdb
+/home/javedbux/DSA/DSA/ArrayBab/obj/Debug/net6.0/ArrayBab.csproj.AssemblyReference.cache
+/home/javedbux/DSA/DSA/ArrayBab/obj/Debug/net6.0/ArrayBab.GeneratedMSBuildEditorConfig.editorconfig
+/home/javedbux/DSA/DSA/ArrayBab/obj/Debug/net6.0/ArrayBab.AssemblyInfoInputs.cache
+/home/javedbux/DSA/DSA/ArrayBab/obj/Debug/net6.0/ArrayBab.AssemblyInfo.cs
+/home/javedbux/DSA/DSA/ArrayBab/obj/Debug/net6.0/ArrayBab.csproj.CoreCompileInputs.cache
+/home/javedbux/DSA/DSA/ArrayBab/obj/Debug/net6.0/ArrayBab.dll
+/home/javedbux/DSA/DSA/ArrayBab/obj/Debug/net6.0/ref/ArrayBab.dll
+/home/javedbux/DSA/DSA/ArrayBab/obj/Debug/net6.0/ArrayBab.pdb
+/home/javedbux/DSA/DSA/ArrayBab/obj/Debug/net6.0/ArrayBab.genruntimeconfig.cache

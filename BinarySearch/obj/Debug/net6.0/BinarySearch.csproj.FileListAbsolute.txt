@@ -1,0 +1,15 @@
+/home/javedbux/DSA/DSA/BinarySearch/bin/Debug/net6.0/BinarySearch
+/home/javedbux/DSA/DSA/BinarySearch/bin/Debug/net6.0/BinarySearch.deps.json
+/home/javedbux/DSA/DSA/BinarySearch/bin/Debug/net6.0/BinarySearch.runtimeconfig.json
+/home/javedbux/DSA/DSA/BinarySearch/bin/Debug/net6.0/BinarySearch.dll
+/home/javedbux/DSA/DSA/BinarySearch/bin/Debug/net6.0/ref/BinarySearch.dll
+/home/javedbux/DSA/DSA/BinarySearch/bin/Debug/net6.0/BinarySearch.pdb
+/home/javedbux/DSA/DSA/BinarySearch/obj/Debug/net6.0/BinarySearch.csproj.AssemblyReference.cache
+/home/javedbux/DSA/DSA/BinarySearch/obj/Debug/net6.0/BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/home/javedbux/DSA/DSA/BinarySearch/obj/Debug/net6.0/BinarySearch.AssemblyInfoInputs.cache
+/home/javedbux/DSA/DSA/BinarySearch/obj/Debug/net6.0/BinarySearch.AssemblyInfo.cs
+/home/javedbux/DSA/DSA/BinarySearch/obj/Debug/net6.0/BinarySearch.csproj.CoreCompileInputs.cache
+/home/javedbux/DSA/DSA/BinarySearch/obj/Debug/net6.0/BinarySearch.dll
+/home/javedbux/DSA/DSA/BinarySearch/obj/Debug/net6.0/ref/BinarySearch.dll
+/home/javedbux/DSA/DSA/BinarySearch/obj/Debug/net6.0/BinarySearch.pdb
+/home/javedbux/DSA/DSA/BinarySearch/obj/Debug/net6.0/BinarySearch.genruntimeconfig.cache
