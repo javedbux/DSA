@@ -1,0 +1,15 @@
+/home/javedbux/DSA/DSA/DSA-Sheet/bin/Debug/net6.0/DSA-Sheet
+/home/javedbux/DSA/DSA/DSA-Sheet/bin/Debug/net6.0/DSA-Sheet.deps.json
+/home/javedbux/DSA/DSA/DSA-Sheet/bin/Debug/net6.0/DSA-Sheet.runtimeconfig.json
+/home/javedbux/DSA/DSA/DSA-Sheet/bin/Debug/net6.0/DSA-Sheet.dll
+/home/javedbux/DSA/DSA/DSA-Sheet/bin/Debug/net6.0/ref/DSA-Sheet.dll
+/home/javedbux/DSA/DSA/DSA-Sheet/bin/Debug/net6.0/DSA-Sheet.pdb
+/home/javedbux/DSA/DSA/DSA-Sheet/obj/Debug/net6.0/DSA-Sheet.csproj.AssemblyReference.cache
+/home/javedbux/DSA/DSA/DSA-Sheet/obj/Debug/net6.0/DSA-Sheet.GeneratedMSBuildEditorConfig.editorconfig
+/home/javedbux/DSA/DSA/DSA-Sheet/obj/Debug/net6.0/DSA-Sheet.AssemblyInfoInputs.cache
+/home/javedbux/DSA/DSA/DSA-Sheet/obj/Debug/net6.0/DSA-Sheet.AssemblyInfo.cs
+/home/javedbux/DSA/DSA/DSA-Sheet/obj/Debug/net6.0/DSA-Sheet.csproj.CoreCompileInputs.cache
+/home/javedbux/DSA/DSA/DSA-Sheet/obj/Debug/net6.0/DSA-Sheet.dll
+/home/javedbux/DSA/DSA/DSA-Sheet/obj/Debug/net6.0/ref/DSA-Sheet.dll
+/home/javedbux/DSA/DSA/DSA-Sheet/obj/Debug/net6.0/DSA-Sheet.pdb
+/home/javedbux/DSA/DSA/DSA-Sheet/obj/Debug/net6.0/DSA-Sheet.genruntimeconfig.cache
